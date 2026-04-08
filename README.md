@@ -21,11 +21,6 @@
 🥛 Milko – Milkman Management App  
 🔎 Lost & Found – Campus item recovery system  
 
-## 🛠 Tech
-Android • Java • Kotlin • Firebase • PHP • JavaScript • Python • AI/ML  
-
-⭐ Learning by building real-world systems.
-
 ## 🌐 Socials
 <p align="left">
   <a href="https://instagram.com/niitin_.21">
