@@ -1,6 +1,30 @@
 # 💫 About Me:
-<!-- Typing Animation --><br><p align="center"><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+I'm+Nitin+👋;Android+Developer;AI+%2F+ML+Explorer;Full+Stack+Learner;DSA+with+Java+%26+Python" /><br></p><br><br><p align="center"><br><img src="https://komarev.com/ghpvc/?username=MakwanaNitin&label=Profile%20Views&color=ff0000&style=flat" /><br></p><br><br> 👨‍💻 About Me<br>🎓 MCA Student | BCA Graduate – Marwadi University (MU)  <br>📱 Android Developer (Java & Kotlin)  <br>🤖 Exploring AI/ML in mobile applications  <br>🌐 Full Stack Learner  <br>🧠 Practicing DSA with Java & Python  <br>🚀 Building real-world and socially useful applications  <br><br> 🔭 Projects<br>📍 UrbanWatch – Smart City Complaint Tracker  <br>🥛 Milko – Milkman Management App  <br>🔎 Lost & Found – Campus item recovery system  <br><br> 🛠 Tech<br>Android • Java • Kotlin • Firebase • PHP • JavaScript • Python • AI/ML  <br><br>⭐ Learning by building real-world systems.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+I'm+Nitin+👋;Android+Developer;AI+%2F+ML+Explorer;Full+Stack+Learner;DSA+with+Java+%26+Python" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MakwanaNitin&label=Profile%20Views&color=ff0000&style=flat" />
+</p>
+
+## 👨‍💻 About Me
+🎓 MCA Student | BCA Graduate – Marwadi University (MU)  
+📱 Android Developer (Java & Kotlin)  
+🤖 Exploring AI/ML in mobile applications  
+🌐 Full Stack Learner  
+🧠 Practicing DSA with Java & Python  
+🚀 Building real-world and socially useful applications  
+
+## 🔭 Projects
+📍 UrbanWatch – Smart City Complaint Tracker  
+🥛 Milko – Milkman Management App  
+🔎 Lost & Found – Campus item recovery system  
+
+## 🛠 Tech
+Android • Java • Kotlin • Firebase • PHP • JavaScript • Python • AI/ML  
+
+⭐ Learning by building real-world systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niitin_.21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NitinMakwana ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nitin__21) 
