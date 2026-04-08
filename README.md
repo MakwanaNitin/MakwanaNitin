@@ -23,13 +23,13 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.instagram.com/heyyitsniitin?igsh=cjU1NmN6azV3c3Yy">
+  <a href="https://www.instagram.com/heyyitsniitin?igsh=MWs1cm14YTEyYmRzMw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat&label=" height="20"/>
   </a>
   <a href="https://www.linkedin.com/in/nitin-makwana-1b060525a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat&label=" height="20"/>
   </a>
-  <a href="https://x.com/https://x.com/nitinn__21">
+  <a href="https://x.com/nitinn__21">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat&label=" height="20"/>
   </a>
 </p>
