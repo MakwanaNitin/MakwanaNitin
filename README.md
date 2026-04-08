@@ -23,7 +23,7 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://instagram.com/niitin_.21">
+  <a href="https://www.instagram.com/heyyitsniitin?igsh=cjU1NmN6azV3c3Yy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat&label=" height="20"/>
   </a>
   <a href="https://www.linkedin.com/in/nitin-makwana-1b060525a/">
