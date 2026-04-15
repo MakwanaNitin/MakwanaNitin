@@ -17,7 +17,6 @@
 🚀 Building real-world and socially useful applications  
 
 ## 🔭 Projects
-📍 UrbanWatch – Smart City Complaint Tracker  
 🥛 Milko – Milkman Management App  
 🔎 Lost & Found – Campus item recovery system  
 
