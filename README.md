@@ -19,6 +19,7 @@
 ## 🔭 Projects
 🥛 Milko – Milkman Management App  
 🔎 Lost & Found – Campus item recovery system  
+💬 Chat-X – Real-Time Chat Application
 
 ## 🌐 Socials
 <p align="left">
