@@ -25,7 +25,7 @@
 
 <p align="left">
 
-  <a href="https://www.instagram.com/heyyitsniitin">
+  <a href="https://www.instagram.com/niitinmakwana">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" height="20"/>
   </a>
 
