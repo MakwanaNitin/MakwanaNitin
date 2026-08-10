@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" height="20"/>
   </a>
 
-  <a href="https://leetcode.com/u/K3VKkoMkyK/">
+  <a href="https://leetcode.com/u/NiitinMakwana/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat" height="20"/>
   </a>
 
